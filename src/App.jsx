@@ -4,7 +4,8 @@ import './App.css'
 function App() {
 
   return <>
-LMS
+  <div className='text-red-500'> nitin </div>
+
   </>
 }
 
